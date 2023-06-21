@@ -8,7 +8,9 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
 
 # Tabla de contenidos
 
-1. f
+* Introducción a Python
+  * Data Types
+    * [Numeric](https://colab.research.google.com/drive/1flz-5w0mrVMDLRDFuQf94U09gBWQttrr?usp=sharing)
 
 ## Colaboradores actvios
 

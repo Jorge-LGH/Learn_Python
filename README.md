@@ -21,7 +21,7 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
 
 ## Colaboradores actvios
 
-- Jorge Luis Gómez Hernández
+- [Jorge Luis Gómez Hernández](https://github.com/Jorge-LGH)
 - 
 
 ## Colaboradores pasados

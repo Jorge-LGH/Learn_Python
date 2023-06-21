@@ -28,6 +28,7 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
 
 -
 
+## Contacto 
 **Este repositorio estará a cargo de miembros del laboratorio de Biología Cuantitativa y Sistemas Complejos**. Si alguna persona desea colaborar o reportar errores, lo puede hacer a través de GitHub o mediante el correo de contacto de la/el responsable en el laboratorio.
 
 **Correo de contacto:** jorgel.goh@gmail.com

@@ -13,11 +13,11 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
     * [Numeric](https://colab.research.google.com/drive/1flz-5w0mrVMDLRDFuQf94U09gBWQttrr?usp=sharing)
     * [String](https://colab.research.google.com/drive/1TBEERSDebLoZBw_KaVAaeNV1HCGZazuJ?usp=sharing)
     * [Sequences](https://colab.research.google.com/drive/1UrIk0rbpgpNt5NNRDpfe5IQAM0mi4fcT?usp=sharing)
-  * [Lops and functions](https://colab.research.google.com/drive/1x1RHg6T8gNV3oMq12tQ3fdCZUUamXuPf?usp=sharing)
+  * [Loops and functions](https://colab.research.google.com/drive/1x1RHg6T8gNV3oMq12tQ3fdCZUUamXuPf?usp=sharing)
   * [Packages and modules](https://colab.research.google.com/drive/1WBoggle1schZd1o_UycyXoSVEbbq-sJ4?usp=sharing)
 * Librerías importantes
-  * Pandas
-  * Matplotlib
+  * [Pandas](https://colab.research.google.com/drive/1fhEOvMGRFpFr4UjZ3y2ulxVWJqOehImo?usp=sharing)
+  * [Matplotlib](https://colab.research.google.com/drive/19iyOSAVCdKnuJ6xf5Cuj9yVPoxCHPf1i?usp=sharing)
 
 ## Colaboradores actvios
 

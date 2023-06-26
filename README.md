@@ -16,8 +16,9 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
   * [Loops and functions](https://colab.research.google.com/drive/1x1RHg6T8gNV3oMq12tQ3fdCZUUamXuPf?usp=sharing)
   * [Packages and modules](https://colab.research.google.com/drive/1WBoggle1schZd1o_UycyXoSVEbbq-sJ4?usp=sharing)
 * Librerías importantes
-  * [Pandas](https://colab.research.google.com/drive/1fhEOvMGRFpFr4UjZ3y2ulxVWJqOehImo?usp=sharing)
+  * [NumPy](https://colab.research.google.com/drive/1WCrz-kmbNm1xuer_zeAn7JXkWcBG5-JK?usp=sharing)
   * [Matplotlib](https://colab.research.google.com/drive/19iyOSAVCdKnuJ6xf5Cuj9yVPoxCHPf1i?usp=sharing)
+  * [Pandas](https://colab.research.google.com/drive/1fhEOvMGRFpFr4UjZ3y2ulxVWJqOehImo?usp=sharing)
 
 ## Colaboradores actvios
 

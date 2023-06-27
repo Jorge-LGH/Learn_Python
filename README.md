@@ -20,7 +20,7 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
   * [Matplotlib](https://colab.research.google.com/drive/19iyOSAVCdKnuJ6xf5Cuj9yVPoxCHPf1i?usp=sharing)
   * [Pandas](https://colab.research.google.com/drive/1fhEOvMGRFpFr4UjZ3y2ulxVWJqOehImo?usp=sharing)
 
-## Colaboradores actvios
+## Colaboradores activos
 
 - [Jorge Luis Gómez Hernández](https://github.com/Jorge-LGH)
 - 

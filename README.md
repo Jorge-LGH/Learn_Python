@@ -19,6 +19,8 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
   * [NumPy](https://colab.research.google.com/drive/1WCrz-kmbNm1xuer_zeAn7JXkWcBG5-JK?usp=sharing)
   * [Matplotlib](https://colab.research.google.com/drive/19iyOSAVCdKnuJ6xf5Cuj9yVPoxCHPf1i?usp=sharing)
   * [Pandas](https://colab.research.google.com/drive/1fhEOvMGRFpFr4UjZ3y2ulxVWJqOehImo?usp=sharing)
+* Librerías especializadas
+  * [iGraph](https://colab.research.google.com/drive/1kWahFJmWRof7glmMg95MgeMVUSdPaSLu?usp=sharing)
 
 ## Colaboradores activos
 

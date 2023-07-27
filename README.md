@@ -1,6 +1,6 @@
 # Guía para Python
 
-Este será un repositorio que contará con distintos ejercicios y nociones generales para aprender Python, enfocado a los alumnos de la licenciatura en Microbiología de la UAQ. Se aconseja conocimiento previo en otros lenguajes de programación, en especial R. Existe un orden dado en este repositorio que se rtecomienda para tomar las nociones del lenguaje en un orden más digerible; sin embargo, no es necesario seguir este orden en caso de contar con experiencia previa.
+Este es un repositorio que cuenta con distintos ejercicios y nociones generales para aprender Python asumiendo que saben R a nivel básico. En particular, está enfocado a los alumnos de la licenciatura en Microbiología de la UAQ. Existe un orden dado en este repositorio que se recomienda para  hacerlo más digerible; sin embargo, no es necesario seguir este orden en caso de contar con experiencia previa.
 
 Cabe aclarar que **algunos términos y frases estarán en inglés**, esto pues es más fácil tener continuidad con un mismo nombre para cada término. Es importante notar que se recomienda buscar ayuda en inglés y usar los términos en dicho idioma, pues la gran mayoría de foros y sitios de aprendizaje estarán en inglés y es indispensable usarlos para progresar en caso de estar atorado.
 

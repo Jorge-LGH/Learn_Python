@@ -24,12 +24,12 @@ Es importante tener en cuenta que este repositorio está estrucutrado para una r
 
 ## Colaboradores activos
 
-- [Jorge Luis Gómez Hernández](https://github.com/Jorge-LGH)
+- 
 - 
 
 ## Colaboradores pasados
 
--
+- [Jorge Luis Gómez Hernández](https://github.com/Jorge-LGH)
 
 ## Contacto 
 **Este repositorio estará a cargo de miembros del laboratorio de Biología Cuantitativa y Sistemas Complejos**. Si alguna persona desea colaborar o reportar errores, lo puede hacer a través de GitHub o mediante el correo de contacto de la/el responsable en el laboratorio.
